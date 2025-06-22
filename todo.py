@@ -9,6 +9,11 @@ st.set_page_config(
     layout="centered"
 )
 
+<meta name="description" content="A free and simple to-do list app. No login, no sign-up, just add tasks and get them done.">
+<meta name="keywords" content="todo, to-do list, task manager, productivity, streamlit, no login, no signup, free todo app, to do list, to do list no sign up, to do list no account, free to do list">
+<meta name="robots" content="index, follow">
+
+
 #CSS styling. i didnt do much here
 st.markdown("""
 <style>
