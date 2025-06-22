@@ -10,8 +10,9 @@ st.set_page_config(
 )
 
 st.markdown("""
-<meta name="description" content="A free and simple to-do list app. No login, no sign-up, no nonsense—just add tasks and get stuff done.">
-<meta name="keywords" content="todo, to-do list, task manager, productivity, streamlit, no login, no signup, free todo app">
+<meta name="google-site-verification" content="1Qk2gAYSTjfXnYW_lCvbmKrhRhRmk7yevp6xBZmoc7k" />
+<meta name="description" content="A free and simple to-do list app. No login, no sign-up, just add tasks and get your stuff done.">
+<meta name="keywords" content="todo, to-do list, task manager, productivity, streamlit, no login, no signup, free todo app, to do list, web app">
 <meta name="robots" content="index, follow">
 """, unsafe_allow_html=True)
 
